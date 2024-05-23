@@ -1,0 +1,15 @@
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.exe
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.deps.json
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.runtimeconfig.json
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.dll
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.pdb
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.csproj.AssemblyReference.cache
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.AssemblyInfoInputs.cache
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.AssemblyInfo.cs
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.csproj.CoreCompileInputs.cache
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.dll
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\obj\Debug\net6.0\refint\ArraysTask.dll
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.pdb
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.genruntimeconfig.cache
+C:\Users\Sabir\Desktop\PB303\ArraysTask\ArraysTask\obj\Debug\net6.0\ref\ArraysTask.dll
